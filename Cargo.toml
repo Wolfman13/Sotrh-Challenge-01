@@ -1,0 +1,13 @@
+[package]
+name = "sotrh-challenge-01"
+version = "0.1.0"
+authors = ["Jean-Jacques <jeanjacques.strydom34@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+winit = "0.24"
+wgpu = "0.6"
+futures = "0.3"
+rand = "0.8.3"
