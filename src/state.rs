@@ -1,5 +1,5 @@
 use winit::{event::{ElementState, MouseButton, WindowEvent}, window::Window};
-use rand::{Rng, thread_rng};
+use rand::Rng;
 
 pub struct State {
     surface: wgpu::Surface,
